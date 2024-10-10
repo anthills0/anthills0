@@ -11,7 +11,7 @@ const Content = () => {
     <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
       <header class="masthead mb-auto">
         <div class="inner">
-          <h3 class="masthead-brand">AnthillC</h3>
+          <h3 class="masthead-brand">Anthills Zero</h3>
           <nav class="nav nav-masthead justify-content-center">
             <a class="nav-link active" href="#">Home</a>
             <a class="nav-link" href="#">Portfolio</a>
@@ -30,7 +30,7 @@ const Content = () => {
 
       <footer class="mastfoot mt-auto">
         <div class="inner">
-          <small>2024 AnthillC. All Rights Reserved.</small>
+          <small>2024 Anthills Zero. All Rights Reserved.</small>
         </div>
       </footer>
     </div>

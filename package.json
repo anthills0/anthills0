@@ -1,8 +1,8 @@
 {
-  "name": "anthillc.github.io",
+  "name": "anthills0.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anthillc.github.io",
+  "homepage": "https://anthills0.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
