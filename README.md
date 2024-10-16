@@ -9,7 +9,7 @@
 ### Run the Docker container for Development
 `docker compose up dev`
 
-You can now open the site at http://localhost:4000.
+You can now open the site at http://localhost:3001.
 
 ### Remove all containers and images
 `docker compose down dev --rmi all --volumes --remove-orphans`
